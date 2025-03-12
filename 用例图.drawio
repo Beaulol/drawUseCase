@@ -5,10 +5,15 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P8nuppX6k4Bq10K--ZUa-1" value="用户1" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="140" y="40" width="110" height="130" as="geometry" />
+          <mxGeometry x="140" y="40" width="220" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="G38J2G1r9elNBvYQZR4A-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P8nuppX6k4Bq10K--ZUa-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="P8nuppX6k4Bq10K--ZUa-2" value="用户2" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="320" y="40" width="30" height="60" as="geometry" />
+          <mxGeometry x="590" y="100" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
